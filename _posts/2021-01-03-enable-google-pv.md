@@ -11,6 +11,7 @@ This post is to enable Page Views on the [**Chirpy**][chirpy-homepage] theme bas
 
 ## Set up Google Analytics
 
+
 ### Create GA account and property
 
 First, you need to setup your account on Google analytics. While your create your account, you must create your first **Property** as well.
